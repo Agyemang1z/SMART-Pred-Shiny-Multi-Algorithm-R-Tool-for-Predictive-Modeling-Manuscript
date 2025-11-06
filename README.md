@@ -127,7 +127,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-### [Samuel Kakraba](https://sph.tulane.edu/bios/samuel-kakraba), B.Ed., M.S., PhD.
+### [Samuel Kakraba](https://sph.tulane.edu/bios/samuel-kakraba), PhD.
 
 - 1440 Canal St, New Orleans, LA 70112, USA
 
@@ -135,13 +135,36 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 
 - Email: [samuel.kakraba@tulane.edu](samuel.kakraba@tulane.edu) 
 
-### [Sudesh Srivastav](https://sph.tulane.edu/bios/sudesh-srivastav), B.S., M.S. PhD.
+### [Han Wenzheng](https://www.linkedin.com/in/wenzheng-han-a311b1308/), PhD.
+
+- 1440 Canal St, New Orleans, LA 70112, USA
+
+- Email: [whan4@tulane.edu](whan4@tulane.edu)
+  
+### [Edmund F. Agyemang](https://scholar.google.com/citations?hl=en&user=UXYOsQQAAAAJ), M.S.
+
+- 1440 Canal St, New Orleans, LA 70112, USA
+
+- Tel: +1-956-578-9158
+
+- Email: [eagyemang@tulane.edu](eagyemang@tulane.edu)
+  
+### [Sudesh Srivastav](https://sph.tulane.edu/bios/sudesh-srivastav), PhD.
 
 - 1440 Canal St, New Orleans, LA 70112, USA
 
 - Tel: +1-504-988-2472
 
-- Email: [ssrivas@tulane.edu](ssrivas@tulane.edu) 
+- Email: [ssrivas@tulane.edu](ssrivas@tulane.edu)
+
+### [Jeffery G. Shaffer](https://sph.tulane.edu/bios/jeffrey-shaffer), PhD.
+
+- 1440 Canal St, New Orleans, LA 70112, USA
+
+- Tel: +1-504-988-1142
+
+- Email: [jshaffer@tulane.edu](jshaffer@tulane.edu)
+  
 
 Project Link: [https://github.com/Agyemang1z/SMART-Pred-Shiny-Multi-Algorithm-R-Tool-for-Predictive-Modeling-Manuscript](https://github.com/Agyemang1z/SMART-Pred-Shiny-Multi-Algorithm-R-Tool-for-Predictive-Modeling-Manuscript)
 
@@ -150,7 +173,6 @@ Project Link: [https://github.com/Agyemang1z/SMART-Pred-Shiny-Multi-Algorithm-R-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments  
 
-* [Prof. Jeffery G. Shaffer](https://sph.tulane.edu/bios/jeffrey-shaffer)
 * [Shiny Framework](https://shiny.posit.co/)
 * [Caret R package](https://github.com/topepo/caret)  
 
