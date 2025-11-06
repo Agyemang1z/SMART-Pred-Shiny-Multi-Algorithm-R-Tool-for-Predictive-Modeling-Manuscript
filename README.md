@@ -33,6 +33,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#contributors">Contributors</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -53,7 +54,7 @@ To install this software, please follow the steps below.
 
 ### Prerequisites
 
-R (version 4.4.0) and R Studio software(Strongly Recommend).
+R (version 4.5.2) and R Studio software(Strongly Recommend).
 
 ### Installation
 
