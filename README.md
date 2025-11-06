@@ -114,7 +114,6 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- LICENSE -->
 ## License
 
@@ -134,6 +133,9 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 - Tel: +1-504-988-2475
 
 - Email: [samuel.kakraba@tulane.edu](samuel.kakraba@tulane.edu) 
+
+<!-- CONTRIBUTORS -->
+## Contributors / Authors
 
 ### [Han Wenzheng](https://www.linkedin.com/in/wenzheng-han-a311b1308/), PhD.
 
