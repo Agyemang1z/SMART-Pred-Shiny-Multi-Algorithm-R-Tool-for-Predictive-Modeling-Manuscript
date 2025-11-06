@@ -1,11 +1,30 @@
-Background: AI has demonstrated superior diagnostic accuracy compared to medical practitioners, highlighting its growing importance in healthcare. SMART-Pred (Shiny Multi-Algorithm R Tool for Predictive Modeling) is an innovative AI-based application for Alzheimer's disease (AD) prediction using handwriting analysis. 
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Objective: To develop and evaluate a non-invasive, cost-effective AI tool for early AD detection, addressing the need for accessible and accurate screening methods. 
+The application offers an intuitive interface for data analysis, model training, and performance evaluation. At the same time, an R markdown pipeline version is also provided for developers to conduct customized analysis. The design of this software aims to enable talented researchers without programming expertise to fully leverage these powerful analytical methods.This repository is just a _**demo version**_. If you would like more features and a complete version of the app, please contact us.
 
-Methods: The study employed Principal Component Analysis (PCA) for dimensionality reduction of handwriting data, followed by training and evaluation of ten diverse AI models, including logistic regression, Naïve Bayes, random forest, AdaBoost, Support Vector Machine (SVM), and neural network. Model performance was assessed using accuracy, sensitivity, specificity, F1-score, and ROC-AUC metrics. The DARWIN dataset, comprising handwriting samples from 174 participants (89 AD patients, 85 healthy controls) was used for validation.
+<!-- GETTING STARTED -->
+## Getting Started
 
-Results: The Neural Network classifier achieved an accuracy of 91% with a 95% CI ranging from 0.79-0.97 and an AUC of 92%, on the test set after identifying the most significant features for AD prediction. These results surpass current clinical diagnostic tools, which typically achieve around 81% accuracy. SMART-Pred's performance aligns with recent AI advancements in AD prediction, such as the Cambridge scientists' AI tool achieving 82% accuracy in identifying AD progression within three years using cognitive tests and MRI scans. The variables "air_time" and "paper_time" consistently emerged as critical predictors for AD across all ten AI models, highlighting their potential importance in early detection and risk assessment. To augment transparency and interpretability, we incorporated the principles of explainable AI, specifically using SHapley Additive exPlanations (SHAP) values—a state-of-the-art method to emphasize the features responsible for our model’s efficacy.
+To install this software, please follow the steps below.
 
-Conclusions: SMART-Pred offers non-invasive, cost-effective, and efficient AD prediction, demonstrating the transformative potential of AI in healthcare. While clinical validation is necessary to confirm the practical applicability of the identified key variables, this study contributes to the growing body of research on AI-assisted AD diagnosis and may lead to improved patient outcomes through early detection and intervention. 
+### Prerequisites
 
-Keywords: Artificial Intelligence (AI); SMART-Pred (Shiny Multi-Algorithm R Tool for Predictive Modeling); Machine Learning (ML); Alzheimer’s Disease (AD); Predictive Modeling; Classification Algorithms; Disease Diagnostics and Surveillance.
+R (version 4.4.0) and R Studio software(Strongly Recommend).
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/whan4/Basic-SMART-pred.git
+   ```
+2. Open R project by clicking on R.Rprofile
+3. Restore R packages by renv.lock
+   ```r
+   renv::restore()
+   ```
+4. Install dependencies
+   ```r
+   install.packages("shiny", "rmarkdown")
+   ```
+5. Every time you run the app, the software will perform a self-check. If additional packages are needed, select 'y' to install them.
